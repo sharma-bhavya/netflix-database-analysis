@@ -1,21 +1,3 @@
-QUESTIONS I WANT TO ANSWER FROM DATASET ARE : -
+Business Problem: Netflix wants to gather useful insights on their shows and movies for their subscribers through their datasets. The issue is, they are working with too much data (approximately 82k rows of data combined) and are unsure how to effectively analyze and extract meaningful insights from it. They need a robust and scalable data analytics solution to handle the vast amount of data and uncover valuable patterns and trends.
 
-What were the top 10 movies according to IMDB score?
-
-What were the top 10 shows according to IMDB score?
-
-What were the bottom 10 movies according to IMDB score?
-
-What were the bottom 10 shows according to IMDB score?
-
-What were the average IMDB and TMDB scores for shows and movies?
-
-What were the 5 most common age certifications for movies?
-
-What were the top 3 most common genres in movies and shows?
-
-Production countries with the most movies and shows?
-
-What are top 10 shows with most seasons?
-
-Calculating the average runtime of movies and TV shows
+How I Plan On Solving the Problem: In helping Netflix gather valuable insights from their extensive movies and shows dataset, I will be utilizing SQL and a data visualization tool like Tableau to extract relevant information, and conduct insightful analyses. By leveraging SQL's functions, I can uncover key metrics such as viewer ratings, popularity trends, genre preferences, and viewership patterns. Once the data has been extracted and prepared, I will leverage Tableau to present the findings. This will allow for interactive exploration of the data, enabling stakeholders at Netflix to gain actionable insights through visually appealing charts, graphs, and interactive visualizations. I plan on creating a dynamic dashboard in Tableau that enables users to delve into specific movie genres, viewer demographics, or geographical regions.
